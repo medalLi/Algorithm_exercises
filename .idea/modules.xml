@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指offer/剑指offer.iml" filepath="$PROJECT_DIR$/剑指offer/剑指offer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/牛客网算法/牛客网算法.iml" filepath="$PROJECT_DIR$/牛客网算法/牛客网算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/算法练习.iml" filepath="$PROJECT_DIR$/算法练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/蓝桥杯/蓝桥杯.iml" filepath="$PROJECT_DIR$/蓝桥杯/蓝桥杯.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面试题/面试题.iml" filepath="$PROJECT_DIR$/面试题/面试题.iml" />
+    </modules>
+  </component>
+</project>
