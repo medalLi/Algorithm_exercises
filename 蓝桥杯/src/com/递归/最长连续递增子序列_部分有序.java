@@ -13,20 +13,17 @@ public class 最长连续递增子序列_部分有序 {
         System.out.println(method(new String("172523468990")));
         System.out.println(method(new String("1925734680")));
     }
-
     public static String method(String line){
         char[] charArr = line.toCharArray();
         int count = 1;
         int max = 1;
         int flag =0;
         for(int i =0;i <charArr.length-1;i ++){
-
             if(charArr[i]<charArr[i+1]){
                 count ++;
                 if(count > max){
                     flag = i+1;
                 }
-
             }else{
                 if(count >max){
                     max = count;
